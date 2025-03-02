@@ -139,7 +139,7 @@ def plot_binomial_distribution(results):
     plt.savefig("Exercise1.png")
     plt.show()
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     mode = input("Choose mode: (1) LLM vs LLM (2) Human vs LLM: ")
     board_size = int(input("Enter board size (NxN): "))
     if mode == "1":
