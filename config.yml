@@ -1,0 +1,14 @@
+name: CSF407_2025_2021B3A72004H
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12.9
+  - numpy
+  - pandas
+  - matplotlib
+  - requests
+  - pip
+  - pip:
+      - google-generativeai
+      - pgmpy
