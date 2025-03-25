@@ -6,7 +6,9 @@ The Zip file contains 3 Main python files in Src folder and 1 config file requir
 src folder includes:
 1. tic-tac-toe.py  for the first part of the assignment.
   These are the fields inside the .py file that need to be filled with the api key before execution.
+
    GROQ_API_KEY = ""
+
    GEMINI_API_KEY = ""
 
  2. wumpus_world_system.py  for the second part of the assignment. Here you will have to input the size of the wumpus world and the number of trials you need.
