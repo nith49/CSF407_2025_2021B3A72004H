@@ -1,4 +1,4 @@
-# CSF407_2025_2021B3A72004H
+# Readme
 
 The Zip file contains 3 Main python files in Src folder and 1 config file required for conda environment.
 (Although we can directly run the codes on terminal if the basic required packages are already installed)
